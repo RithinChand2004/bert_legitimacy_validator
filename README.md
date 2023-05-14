@@ -1,0 +1,1 @@
+# bert_legitimacy_validator
