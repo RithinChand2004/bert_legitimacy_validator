@@ -3,11 +3,11 @@ import streamlit as st
 import predictor
 
 
-st.title("Legitamecy Analysis with BERT")
+st.title("Legitamacy Analysis with BERT")
 st.subheader("Sentiment Analysis of reviews using BERT")
 
 with st.expander("How to use this website"):
-    st.write("This is a web app to analyze the legitemacy of reviews. You need to enter the ratings given by the user and the review text. The model will predict the sentiment of the review and will tell you whether the review is legit or not.")
+    st.write("This is a web app to analyze the legitamacy of reviews. You need to enter the ratings given by the user and the review text. The model will predict the sentiment of the review and will tell you whether the review is legit or not.")
     
 
 
