@@ -3,7 +3,7 @@ import pyautogui
 import predictor
 
 
-st.title("Legitamacy Analysis with BERT")
+st.title("Legitimacy Analysis with BERT")
 st.subheader("Sentiment Analysis of reviews using BERT")
 
 with st.expander("How to use this website"):
