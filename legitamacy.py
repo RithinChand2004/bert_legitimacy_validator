@@ -1,6 +1,6 @@
 import streamlit as st
-import pyautogui
-#import predictor
+#import pyautogui
+import predictor
 
 
 st.title("Legitamecy Analysis with BERT")
