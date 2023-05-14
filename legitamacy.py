@@ -1,6 +1,6 @@
 import streamlit as st
 import pyautogui
-import predictor
+#import predictor
 
 
 st.title("Legitamecy Analysis with BERT")
@@ -30,6 +30,6 @@ if st.button('Predict', key=1):
 
     
 
-if st.button('Reset all parameters', key=14):
-            pyautogui.hotkey("ctrl","F5")
+# if st.button('Reset all parameters', key=14):
+#             pyautogui.hotkey("ctrl","F5")
 
